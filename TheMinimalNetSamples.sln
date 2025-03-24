@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net9UwpSample", "Net9UwpSam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinUIUnpcakage", "WinUIUnpcakage\WinUIUnpcakage.csproj", "{23C73FE1-97E1-4295-B470-30D6DCC89796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaAotSample", "AvaloniaAotSample\AvaloniaAotSample.csproj", "{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -52,6 +54,18 @@ Global
 		{23C73FE1-97E1-4295-B470-30D6DCC89796}.Release|x86.ActiveCfg = Release|x86
 		{23C73FE1-97E1-4295-B470-30D6DCC89796}.Release|x86.Build.0 = Release|x86
 		{23C73FE1-97E1-4295-B470-30D6DCC89796}.Release|x86.Deploy.0 = Release|x86
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|x64.Build.0 = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Debug|x86.Build.0 = Debug|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|ARM64.Build.0 = Release|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|x64.ActiveCfg = Release|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|x64.Build.0 = Release|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|x86.ActiveCfg = Release|Any CPU
+		{D8EA2934-E9E7-425C-8D5A-F2A6C48ADEAE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
