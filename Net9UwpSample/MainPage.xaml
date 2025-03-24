@@ -1,0 +1,10 @@
+﻿<Page
+    x:Class="Net9UwpSample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Net9UwpSample">
+    <Grid>
+        <Button Content="Button" />
+        <TextBlock Text="TextBlock" />
+    </Grid>
+</Page>

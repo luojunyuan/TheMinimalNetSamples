@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Net9UwpSample": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": true
+    }
+  }
+}
