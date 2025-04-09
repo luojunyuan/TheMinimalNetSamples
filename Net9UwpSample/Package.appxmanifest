@@ -10,7 +10,7 @@
   <Identity
     Name="fed72a42-aef4-42eb-8903-22c4506f593d"
     Publisher="CN=CYCY"
-    Version="1.0.26.0" />
+    Version="1.0.27.0" />
 
   <mp:PhoneIdentity PhoneProductId="b8be68fa-cd68-4b1e-9b1c-843497b926d2" PhonePublisherId="fe1aeb97-ebca-4c58-9f85-d105a885dbfa"/>
 

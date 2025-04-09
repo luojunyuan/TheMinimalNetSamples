@@ -4,7 +4,9 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:Net9UwpSample">
     <Grid>
-        <Button Content="Button" />
-        <TextBlock Text="TextBlock" />
+        <Button
+            HorizontalAlignment="Center"
+            Click="Button_Click"
+            Content="Buttosssn" />
     </Grid>
 </Page>

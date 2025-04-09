@@ -8,5 +8,13 @@ namespace Net9UwpSample
         {
             this.InitializeComponent();
         }
+
+        private void Button_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
+        {
+            if (sender is Button button)
+            {
+                button.Content = "Clicked!";
+            }
+        }
     }
 }
