@@ -1,6 +1,6 @@
 ﻿create by template `Avalonia .Net App (AvaloniaUI)`
 
-|  |  |
+| AOT build |  |
 | --- | --- |
 | When launch | 76.1 MB |
 | Leave it along | 76.3 MB | 
